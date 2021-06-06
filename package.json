@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/masterfabela/cypress-get-started/issues"
   },
-  "homepage": "https://github.com/masterfabela/cypress-get-started#readme"
+  "homepage": "https://github.com/masterfabela/cypress-get-started#readme",
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
 }
